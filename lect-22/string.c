@@ -20,7 +20,7 @@ int main()
 
         if (count == 0)
         {
-            printf("%c", s[i]);
+            printf("%c", s[j]);
         }
     }
     return 0;
