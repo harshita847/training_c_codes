@@ -4,7 +4,7 @@
 
 
   // mini calculator  
-    #include <stdio.h>
+ #include <stdio.h>
 #include <math.h>
 int main()
 {
@@ -68,6 +68,7 @@ int main()
     
         int number;
         printf("enter choice-");
+        printf("1-monday\n2-tuesday");
         scanf("%d", &number);
         switch (number)
         {
